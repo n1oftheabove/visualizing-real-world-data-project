@@ -24,7 +24,7 @@ From the point of view of an airline, in order to optimize passenger satisfactio
 
 ## Questions & Hypotheses
 
-* General statistics (frequency of Age, flown distance etc.)
+* Visualize general statistics (what is the frequency of Age, flown distance etc.?)
 * Analyzing the passenger frequency over age in more depth (at what age, who flies which class most?), does superimposing the satisfaction ratio for a given age result in interesting insights?
 * In general, can EDA uncover arguments regarding the question whether external influences are at work which might contribute to satisfaction, but are not contained in the data?
 * And ultimately: Which circumstances (reflected in this dataset by the passengers rating) contribute significantly to the overall satisfaction level of a passenger?
@@ -88,5 +88,6 @@ Neither any source or date of origin is mentioned in the kaggle source for this 
 
 ## Links
 
-[Source of the dataset on kaggle.com](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction)
-[Google slides presentation](https://docs.google.com/presentation/d/1eoOu_bpFJgjXxqivmLKKIDXEaO_8hfE9F7H6mdePJuM/edit?usp=sharing)
+* [Source of the dataset on kaggle.com](https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction)
+
+* [Google slides presentation](https://docs.google.com/presentation/d/1eoOu_bpFJgjXxqivmLKKIDXEaO_8hfE9F7H6mdePJuM/edit?usp=sharing)
