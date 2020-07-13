@@ -20,7 +20,7 @@ This is a data analysis project regarding flight passenger data of US domestic f
 
 ## Project Description
 
-From the point of view of an airline, in order to optimize passenger satisfaction it can be important to survey passengers in different categories concerning their flight, such as *Age*, flown *class*, the *WiFi quality* on board or the perceived quality of the *Inflight service*. The goal of this project to dive deep into a dataset containing such values, to find possible relationships between data, valuable insights which could be communicated to other departments within an airline, and ultimately examine whether passenger ratings in the above mentioned categories significantly contribute to passenger satisfaction.
+From the point of view of an airline, in order to optimize passenger satisfaction it can be important to survey passengers in different categories concerning their flight, such as *Age*, flown *class*, the *WiFi quality* on board or the perceived quality of the *Inflight service*. The goal of this project is to dive deep into a dataset containing such values, to find possible relationships between data, valuable insights which could be communicated to other departments within an airline, and ultimately examine whether passenger ratings in categories such as the above mentioned significantly contribute to passenger satisfaction.
 
 ## Questions & Hypotheses
 
