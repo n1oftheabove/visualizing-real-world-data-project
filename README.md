@@ -41,7 +41,7 @@ The data came split into **test** and **training** data, both as `.csv`-files. S
 
 The EDA revealed several interesting insights. In the following, only a selection is mentioned. For more, please inspect the complete notebook.
 
-Apart from visualizing different market shares for different age related target groups (passengers within the age of workforce fly more business, economy is flown mostly by people in their twenties), which can be communicated to the marketing or PR department for e.g. better targeted advertisement, one can see in the below histogram plot, that the ratio of passenger satisfaction wildly jumps at certain key ages (speculation: retirement age around 60 years old or at the age of 70 where insurance companies significantly raise contributions, etc.). A deeper analysis seperated into these very age groups or adding more data is necessary to obtain knowledge regarding the origins of these effects.
+Apart from visualizing different market shares for different age related target groups (passengers within the age of workforce fly more business, economy is flown mostly by people in their twenties), which can be communicated to the marketing or PR department for e.g. better targeted advertisement, one can see in the below histogram plot, that the ratio of passenger satisfaction wildly jumps at certain key ages (speculation: retirement age around 60 years old or at the age of 70 where insurance companies significantly raise contributions, etc.). A deeper analysis into these very age groups or adding more data could be beneficial to obtain knowledge regarding the origins of these effects.
 
 ![Histogram Passengers with satisfaction](./img/plot_hist_passengers_with_satisfaction.png)
 
